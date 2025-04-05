@@ -83,11 +83,37 @@ Here’s a quick overview of the tools, languages, and frameworks I work with re
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+**DevOps & Cloud**  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure&logoColor=white)  
+![Azure-python](https://img.shields.io/badge/-Azure%20Python-0078D4?style=flat&logo=python&logoColor=white)  
+![Azure-node](https://img.shields.io/badge/-Azure%20Node-0078D4?style=flat&logo=node.js&logoColor=white)  
+![Azure-devops-labs](https://img.shields.io/badge/-Azure%20DevOps%20Labs-0078D4?style=flat&logo=azuredevops&logoColor=white)  
+![Azure_DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)  
+![StaticWebApp](https://img.shields.io/badge/-Static%20Web%20App-0078D4?style=flat&logo=azuredevops&logoColor=white)  
+
+**Jenkins & CI/CD**  
+![Nodeapp-Jenkins](https://img.shields.io/badge/-Nodeapp%20Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Azure_DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)  
+
+**Kubernetes**  
+![K8-notes](https://img.shields.io/badge/-K8%20Notes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Kubernetes-train](https://img.shields.io/badge/-Kubernetes%20Train-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
 #### 🖥️ Operating Systems  
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Projects Overview
+
+- [Auto-code-review](https://github.com/Sravya-Sree/Auto-code-review)
+- [My Static Web App](https://github.com/Sravya-Sree/my-static-web-app)
+- [Online Auction System](https://github.com/Sravya-Sree/Online-Auction-System)
+- [Azure-python](https://github.com/Sravya-Sree/Azure-python)
+- [Criminal-Activities-Detection-in-Deep-Learning](https://github.com/Sravya-Sree/Criminal-Activities-Detection-in-Surveillance-Videos-using-Deep-Learning)
 
 ---
 
