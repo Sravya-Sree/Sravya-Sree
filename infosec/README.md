@@ -40,4 +40,4 @@ This section highlights my ongoing learning, ideas, and project goals.
 
 ---
 
-📫 Contact me: Kollusravyasree
+📫 Contact me: Kollusravyasree@gmail.com
