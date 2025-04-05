@@ -93,14 +93,8 @@ Here’s a quick overview of the tools, languages, and frameworks I work with re
 ---
 
 ### 📈 GitHub Stats
+![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Sravya-Sree&repo=RepoName&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya-Sree&layout=compact&theme=radical)
-
----
-
-### 📂 Highlight Projects
-- 🎥 [Movie Website](https://github.com/Sravya-SreeMovies_Website) – Built with TMDb API
-- 🔒 [Password Cracking Detection](https://drive.google.com/file/d/1aPvOETaWKldfL-tf_B6xNHBnWuPHpgam/view?usp=sharing)
-- 📦 [Shipment Tracking with Hyperledger](https://drive.google.com/file/d/1pegLOFXpNYKGzNIxfxlme9V6q59kTSQG/view?usp=sharing)
 
 ---
 
@@ -108,7 +102,7 @@ Here’s a quick overview of the tools, languages, and frameworks I work with re
 - 🌏 In my free time, you’ll find me exploring CTFs, reading good books and documentation 
 - 🎨 Outside tech, I'm into digital art and minimalist design.
 - 🏸 I play badminton and chess
-- I can debug better with a cup of chai ☕ and some lo-fi beats 🎧.
+- ☕ I can debug better with a cup of coffee and some lo-fi beats 🎧.
 
 ---
 
