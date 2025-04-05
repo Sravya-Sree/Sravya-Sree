@@ -84,20 +84,13 @@ Here’s a quick overview of the tools, languages, and frameworks I work with re
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **DevOps & Cloud**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure&logoColor=white)  
-![Azure-python](https://img.shields.io/badge/-Azure%20Python-0078D4?style=flat&logo=python&logoColor=white)  
-![Azure-node](https://img.shields.io/badge/-Azure%20Node-0078D4?style=flat&logo=node.js&logoColor=white)  
-![Azure-devops-labs](https://img.shields.io/badge/-Azure%20DevOps%20Labs-0078D4?style=flat&logo=azuredevops&logoColor=white)  
-![Azure_DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)  
-![StaticWebApp](https://img.shields.io/badge/-Static%20Web%20App-0078D4?style=flat&logo=azuredevops&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure&logoColor=white) ![Azure-python](https://img.shields.io/badge/-Azure%20Python-0078D4?style=flat&logo=python&logoColor=white) ![Azure-node](https://img.shields.io/badge/-Azure%20Node-0078D4?style=flat&logo=node.js&logoColor=white) ![Azure-devops-labs](https://img.shields.io/badge/-Azure%20DevOps%20Labs-0078D4?style=flat&logo=azuredevops&logoColor=white) ![Azure_DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white) ![StaticWebApp](https://img.shields.io/badge/-Static%20Web%20App-0078D4?style=flat&logo=azuredevops&logoColor=white)
 
 **Jenkins & CI/CD**  
-![Nodeapp-Jenkins](https://img.shields.io/badge/-Nodeapp%20Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
-![Azure_DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)  
+![Nodeapp-Jenkins](https://img.shields.io/badge/-Nodeapp%20Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Azure_DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
 
 **Kubernetes**  
-![K8-notes](https://img.shields.io/badge/-K8%20Notes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![Kubernetes-train](https://img.shields.io/badge/-Kubernetes%20Train-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![K8-notes](https://img.shields.io/badge/-K8%20Notes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Kubernetes-train](https://img.shields.io/badge/-Kubernetes%20Train-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 #### 🖥️ Operating Systems  
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
