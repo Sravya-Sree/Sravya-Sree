@@ -5,7 +5,7 @@
 
 🎯 **About Me**
 
-I am a driven and versatile developer with a strong interest in Artificial Intelligence, Blockchain, Full Stack Web Development, and Information Security. I enjoy turning complex challenges into elegant, scalable solutions.
+I am a driven and versatile developer interested in Artificial Intelligence, Blockchain, Full Stack Web Development, and Information Security. I enjoy turning complex challenges into elegant, scalable solutions.
 
 ---
 
