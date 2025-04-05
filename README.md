@@ -93,7 +93,9 @@ Here’s a quick overview of the tools, languages, and frameworks I work with re
 ---
 
 ### 📈 GitHub Stats
-![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Sravya-Sree&repo=RepoName&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sravya-Sree&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya-Sree&layout=compact&theme=radical)
 
 ---
