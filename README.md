@@ -94,9 +94,10 @@ Here’s a quick overview of the tools, languages, and frameworks I work with re
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sravya-Sree&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya-Sree&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sravya-Sree&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya-Sree&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
