@@ -18,9 +18,11 @@ I am a driven and versatile developer with a strong interest in Artificial Intel
 
 📬 **Let’s Connect!** 
 Feel free to reach out or explore more about my work:
+📬 **Let’s Connect!**
+Feel free to reach out or explore more about my work:
 <p align="center">
-  <a href="mailto:kollusravyasree@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kollu-sravya-sree/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kollusravyasree@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/kollu-sravya-sree/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 - 🌐 Portfolio: [Fiverr Profile](https://www.fiverr.com/sravyasreekollu)
 
